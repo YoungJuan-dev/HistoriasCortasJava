@@ -1,4 +1,5 @@
 📖 Creador de Historias Cortas en Java
+
 📌 Descripción del proyecto
 Este proyecto es un Generador de Narrativas Procedimentales desarrollado en Java. Su objetivo es crear historias coherentes de forma aleatoria o personalizada mediante la interacción con el usuario por consola.
 
